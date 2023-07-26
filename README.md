@@ -1,4 +1,4 @@
-# Bispectrum-Features-Extraction
+# Bispectrum-Features-Extraction-From-SEED-EEG-Signals-And-Classifications
 - The EEG signal is a time domain signal and the signal
 Energy distribution is scattered. In order to extract the
 bispectrum features, the EEG signal is analyzed to give a
